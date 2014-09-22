@@ -1,6 +1,6 @@
 Package.describe({
   summary: "A javascript library for multi-touch gestures",
-  version: "2.0.3.1",
+  version: "2.0.4",
   git: "https://github.com/quarterto/meteor-hammer.git"
 });
 
