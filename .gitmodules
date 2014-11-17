@@ -1,3 +1,0 @@
-[submodule "hammer"]
-	path = hammer
-	url = git://github.com/hammerjs/hammer.js.git
